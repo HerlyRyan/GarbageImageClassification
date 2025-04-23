@@ -45,7 +45,7 @@ If you want to just learn of the code, check my google colab: [mycolab](https://
 
 ## Another Model Links
 The links show the another model that can't uploaded to this repo, because size larger than 100MB
-[TFLite Model](https://drive.google.com/file/d/1zrKQ9l0X-22vjYrzVyd_94aM-PgEFVms/view?usp=sharing)
-[Best Model Keras](https://drive.google.com/file/d/1bHlYoHMgnim9YM-MP0ES-k1hg2jagdoV/view?usp=sharing)
-[HDF5 Model](https://drive.google.com/file/d/1BSpARbcPEHDRozuttM5o8AFDHLCZSs7D/view?usp=sharing)
-[Saved Model](https://drive.google.com/drive/folders/142x1mqncyS2XZakDoDdG31EQX8-ITETb?usp=sharing)
+- [TFLite Model](https://drive.google.com/file/d/1zrKQ9l0X-22vjYrzVyd_94aM-PgEFVms/view?usp=sharing)
+- [Best Model Keras](https://drive.google.com/file/d/1bHlYoHMgnim9YM-MP0ES-k1hg2jagdoV/view?usp=sharing)
+- [HDF5 Model](https://drive.google.com/file/d/1BSpARbcPEHDRozuttM5o8AFDHLCZSs7D/view?usp=sharing)
+- [Saved Model](https://drive.google.com/drive/folders/142x1mqncyS2XZakDoDdG31EQX8-ITETb?usp=sharing)
